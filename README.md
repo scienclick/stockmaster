@@ -1,0 +1,1 @@
+# Master platform for stock analysis
